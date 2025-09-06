@@ -1,0 +1,18 @@
+# Step 10 – Paketverwaltung: yum/dnf & rpm (RHEL/CentOS)
+
+## Was habe ich gelernt?
+- [Stichpunkte mit Kernideen]
+
+## Was habe ich gemacht?
+- [Konkrete Aufgaben / Installationen / Übungen]
+
+## Commands
+befehl --option   → Erklärung
+zweiter_befehl    → Erklärung
+
+## Ergebnis
+- [Status / Erfolg dokumentieren]
+
+## Persönliche Notizen
+- [Schwer / leicht / wichtig?]
+- [Wofür später nützlich (Cloud/DevOps/Full-Stack)?]
